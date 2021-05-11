@@ -7,7 +7,7 @@ My first major Python project, built on tkinter and pyglet, with dearpygui as th
 ### Current features:
 
 * Play and pause music files (of course)
-* Ability to locate and play two music files (not sequentially) and skip between them, but not vice versa.
+* Ability to locate and play two music files in a queue (not sequentially) and skip to the next song in the queue, but not vice versa.
 * Ability to see current duration
 * Ability to see the filepath of the currently playing music file (only the first one at the moment).
 
